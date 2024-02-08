@@ -1,0 +1,18 @@
+/* page 2  pics section */
+.flexcontainer1 {
+    
+  flex-basis:1cm;
+    justify-content: space-around;
+}
+
+
+
+
+/*--------------------------------------------------*/
+
+@media only screen and (max-width:881px) { 
+    #pics {
+        height: 50px;
+    }
+
+}

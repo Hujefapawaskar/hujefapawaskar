@@ -1,0 +1,70 @@
+/* index page background video section */
+
+
+  #video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Place the video behind other content */
+  }
+ /*  ---------------------------------------- */
+
+
+/* head section */
+#headp3 {
+  text-align: center;
+}
+
+#last {
+  text-align: center;
+}
+#pg3para1 {
+  font-size: 14px;
+}
+#pg3para2 {
+  font-size: 17px;
+}
+#pg3para3 {
+  font-size: 17px;
+}
+
+/* buttons */
+.sticky-button4 {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 15px 20px;
+  background-color: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.sticky-button5 {
+  position: fixed;
+  bottom: 0;
+  left: 42%;
+  transform: translateX(-50%);
+  padding: 15px 20px;
+  background-color: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+ /*----------------------------*/
+
+/* subhead */
+
+
+

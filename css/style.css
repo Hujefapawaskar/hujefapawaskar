@@ -1,0 +1,94 @@
+/* index page background video section */
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrollbars */
+  }
+
+  #video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Place the video behind other content */
+  }
+ /*  ---------------------------------------- */
+
+
+ /* maine page top content */  
+
+  #mpgheadcontent {
+    position: relative;
+    z-index: 1; /* Ensure content is on top of the video */
+    color: rgb(243, 26, 26); /* Example text color, adjust as needed */
+    text-align: center;
+    padding: 100px;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+ #mpgh1 {
+  
+    width: 50%; /* Set a width for demonstration purposes */
+    margin: auto;
+    overflow-wrap: break-word; /* Use 'break-word' for better compatibility */
+    white-space: normal; /* Ensure words break at spaces */
+  
+  text-decoration: underline;
+  color: rgba(242, 64, 64, 0.937);
+  padding-top: 10px;
+    padding-right:200px;
+ }
+
+ #mpgh2 {
+  text-decoration: underline;
+  padding-left: 240px;
+  margin-top: 10px;
+  color: rgba(11, 137, 227, 0.982);
+ }
+
+ 
+
+ /*  ---------------------------------------- */
+/* maine page start paragraph  */
+
+
+.mpgstartpara {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: rgb(71, 204, 14);
+}
+
+
+/*  ---------------------------------------- */
+
+/* about section */
+#aboutme1 {
+  text-decoration:double;
+  color: aqua;
+  text-decoration: underline;
+  padding-left: 3px;
+ padding-top:70px;
+
+}
+#aboutme2 {
+  font-size: 22px;
+  text-decoration:double;
+  color: aqua;
+  text-decoration: underline;
+  padding-left: 3px;
+ padding-top:5px;
+
+}
+#lastcontact {
+  
+  font-size: 15px;
+  padding-top: 20px;
+  padding-left: 5px;
+}
+
+/*  ---------------------------------------- */

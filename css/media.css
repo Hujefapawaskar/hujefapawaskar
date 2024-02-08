@@ -1,0 +1,105 @@
+/* main page top head and paragraph */
+
+
+@media only screen and (max-width:881px) {
+    #mpgheadcontent {
+     padding-left: 20px;
+     font-size: 10px;
+    }
+    .mpgstartpara {
+    
+    font-size: 12px;
+    }
+ 
+    #aboutme {
+     padding-top: 80px;
+     font-size: 8px;
+ }
+ 
+ #contactme {
+     
+     font-size: 13px;
+ 
+ }  
+    
+    
+ }
+ @media only screen and (max-width:814px) {
+     #mpgheadcontent {
+         
+      padding-right: 200px;
+      font-size: 7px;
+     }
+     .mpgstartpara {
+      
+     font-size: 10px;
+     }
+ 
+     #aboutme {
+         padding-top: 80px;
+         font-size: 7px;
+ 
+     }
+     #contactme {
+         
+         font-size: 10px;
+ 
+     }
+ 
+        
+  }
+ 
+  @media only screen and (max-width:680px) {
+     #mpgh1 {
+         white-space: nowrap;
+     }
+ 
+     #mpgh2 {
+         white-space: nowrap;
+         margin-right: 500px;
+     }
+     #mpgheadcontent {
+         
+      padding-right: 250px;
+      font-size: 8px;
+     }
+     .mpgstartpara {
+      gap:5px;
+     font-size: 8px;
+     }
+ }
+ 
+        
+ 
+  @media only screen and (max-width:546px) {
+     .mpgstartpara {
+      
+     font-size: 7px;
+     }
+     #aboutme {
+         padding-top: 150px;
+         font-size: 7px;
+ 
+     }
+     #contactme {
+         
+         font-size: 7px;
+ 
+     }
+     #aboutme2 {
+         font-size: 8px;
+     }
+  }
+        
+  
+  /*-------------------------------------------------------*/
+
+
+ /*page 2 my  top pics */
+
+ 
+
+
+  
+   /*-------------------------------------------------------*/
+   
